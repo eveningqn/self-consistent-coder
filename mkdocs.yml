@@ -7,8 +7,7 @@ theme:
     custom_dir: custom_theme/
     static_templates:
         - 404.html
-formats:
-  - epub
+
 
 markdown_extensions:
     - toc:
